@@ -60,7 +60,7 @@ File: style.css
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  color: #888;
+  color: #CB715B;
   font-weight: 400;
   background: #f4f7fa;
   position: relative;
@@ -134,11 +134,11 @@ strong {
 }
 
 .theme-bg {
-  background: linear-gradient(-135deg, #1de9b6 0%, #1dc4e9 100%);
+  background: linear-gradient(-135deg, #E9B92C 0%, #CB715B 100%);
 }
 
 .theme-bg2 {
-  background: linear-gradient(-135deg, #899FD4 0%, #A389D4 100%);
+  background: linear-gradient(-135deg, #CB715B 0%, #E9B92C 100%);
 }
 
 /* ==========  card css start  =========== */
@@ -211,7 +211,7 @@ p.text-muted {
 }
 .card .card-header h5:after {
   content: "";
-  background-color: #04a9f5;
+  background-color: #CB715B;
   position: absolute;
   left: -25px;
   top: 0;
@@ -249,7 +249,7 @@ p.text-muted {
   background: transparent;
   -webkit-box-shadow: none;
           box-shadow: none;
-  color: #888;
+  color: #CB715B;
 }
 .card .card-header .card-header-right .btn.dropdown-toggle i {
   margin-right: 0;
@@ -541,7 +541,7 @@ p.text-muted {
   content: "COPY";
 }
 .datta-example .datta-example-btns .datta-example-btn.copied {
-  background: #1de9b6 !important;
+  background: #CB715B !important;
   color: #fff !important;
 }
 .datta-example .datta-example-btns .datta-example-btn.copied::before {
@@ -563,7 +563,7 @@ p.text-muted {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: #282c34;
+  background: #CB715B;
   -webkit-transform-origin: 50% 0;
           transform-origin: 50% 0;
   -webkit-transform: scale(0);
@@ -5372,7 +5372,7 @@ body.layout-6 .pcoded-navbar.menu-light .header-logo {
           box-shadow: none;
 }
 body.layout-6 .pcoded-navbar .slimScrollDiv {
-  background: #3f4d67;
+  background: #CB715B;
   border-radius: 0 10px 0 0;
   -webkit-box-shadow: 0 0 20px 0 #3f4d67;
           box-shadow: 0 0 20px 0 #3f4d67;
@@ -5432,7 +5432,7 @@ body.layout-6 .pcoded-navbar.navbar-dark .header-logo {
   background: transparent;
 }
 body.layout-6 .pcoded-navbar.navbar-dark .slimScrollDiv {
-  background: #323437;
+  background: #CB715B;
   -webkit-box-shadow: 2px 0 20px 0 rgba(0, 0, 0, 0.08);
           box-shadow: 2px 0 20px 0 rgba(0, 0, 0, 0.08);
 }
